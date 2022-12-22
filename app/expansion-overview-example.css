@@ -1,0 +1,12 @@
+/** No CSS for this example */
+table {
+  width: 100%;
+}
+
+.mat-row {
+  height: auto;
+}
+
+.mat-cell {
+  padding: 15px 15px 15px 0;
+}
